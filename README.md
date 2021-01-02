@@ -13,4 +13,4 @@ The Algorithm and web app was built in Python using the following libraries:
 * google Drive 
 * ngrok 
 
-this is some phots for my *potato-Pepper-Disease-Detection*
+this is some phots for my ** potato-Pepper-Disease-Detection **
