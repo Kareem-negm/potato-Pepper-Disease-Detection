@@ -1,5 +1,5 @@
+pip install opencv-python 
 import cv2
-
 import streamlit as st
 import tensorflow as tf
 from PIL import Image ,ImageOps
