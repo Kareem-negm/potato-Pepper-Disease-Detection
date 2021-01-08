@@ -1,5 +1,5 @@
 streamlit==0.61.0
-opencv
+opencv-python 4.5.1.48
 PLt
 numpy==1.18.1
 tensorflow==2.0.0
