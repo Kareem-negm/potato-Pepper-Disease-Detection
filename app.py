@@ -5,9 +5,10 @@ from PIL import Image ,ImageOps
 import numpy as np
  
 
+drive_weighs_URL='https://drive.google.com/file/d/1MRTBcbOspufLSH4blKpbxmvZ217j6KLI/view?usp=sharing'
 @st.cache(allow_output_mutation=True)
 def load_model():
-    model=tf.keras.models.load_model('C:/Users/negmk/Desktop/Plant Disease Detection/ my_model_weights.hdf5')
+    model=tf.keras.models.load_model(drive_weighs_URL+'C:/Users/negmk/Desktop/Plant Disease Detection/ my_model_weights.hdf5')
     return model
 
 model=load_model()
