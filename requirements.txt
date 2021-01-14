@@ -1,7 +1,0 @@
-streamlit>0.66
-PLt
-numpy
-opencv-python-headless
-tensorflow==2.0.0
-keras 
-matplotlib
